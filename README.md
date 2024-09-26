@@ -1,5 +1,5 @@
 # Sobre mi
-Hola, me llamo *Daniel* pero me llaman *Dani*
+Hola, me llamo **Daniel** pero me llaman **Dani**
 
 Estoy haciendo el *modulo superior de DAM en La Vall d'Uxo*
 
