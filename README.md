@@ -20,3 +20,5 @@ Mis artistas favoritos són
 *Fito
 *Travis Scott
 *The Weekend
+
+![image](https://github.com/user-attachments/assets/5ddeaa55-5fb9-4420-bd65-4ce2ef01f8ee)
