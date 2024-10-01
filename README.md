@@ -7,7 +7,7 @@ Algunos de mis hobbies serian:
 1. Jugar VideoJuegos
 2. Hacer deporte
 3. Escuchar Música
-4.Jugar a la petanca en ambito competitivo (con los yayos)
+4. Jugar a la petanca en ambito competitivo (con los yayos)
   
 
 
