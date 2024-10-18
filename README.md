@@ -21,4 +21,4 @@ Mis artistas favoritos són
 * Travis Scott
 * The Weekend
 
-![image](https://github.com/user-attachments/assets/5ddeaa55-5fb9-4420-bd65-4ce2ef01f8ee)
+![image](https://i.pinimg.com/originals/7e/51/53/7e5153fea10317b079eca79431f3d2b9.jpg)
